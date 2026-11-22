@@ -8763,6 +8763,12 @@
 		(uuid "094a7f36-185c-4b8f-91a9-c83e4cd6027d")
 	)
 	(junction
+		(at 148.59 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "37805e58-b1f9-4ca5-931f-7623185809c1")
+	)
+	(junction
 		(at 124.46 123.19)
 		(diameter 0)
 		(color 194 0 0 1)
@@ -8792,6 +8798,12 @@
 		(color 0 194 0 1)
 		(uuid "e65c5fc3-9764-494e-8031-ff6e8cd94304")
 	)
+	(junction
+		(at 157.48 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fb0bcc6c-629a-4649-b694-ddaeacf8ed88")
+	)
 	(wire
 		(pts
 			(xy 186.69 73.66) (xy 157.48 73.66)
@@ -8801,6 +8813,16 @@
 			(type default)
 		)
 		(uuid "0ba9afe6-178b-4c92-9d9d-74deefe57332")
+	)
+	(wire
+		(pts
+			(xy 157.48 66.04) (xy 157.48 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18d0192c-b958-4699-8ee8-37c3fa6ac371")
 	)
 	(wire
 		(pts
@@ -9032,6 +9054,16 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 66.04) (xy 157.48 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90085268-4738-4ab0-ac26-82ec863eaa9e")
+	)
+	(wire
+		(pts
 			(xy 106.68 109.22) (xy 106.68 73.66)
 		)
 		(stroke
@@ -9236,6 +9268,88 @@
 			(type default)
 		)
 		(uuid "fb72b575-4365-4d18-91d0-e0b6420333c7")
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 148.59 69.85 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1854843e-f28c-4c66-8c26-f92aadc8719d")
+		(property "Reference" "R4"
+			(at 151.13 68.5799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R"
+			(at 151.13 71.1199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 146.812 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 148.59 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 148.59 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "8098ea3c-41ef-4470-89d6-8f87275d2136")
+		)
+		(pin "1"
+			(uuid "6571f23a-9b1c-445a-8edb-b3301d94244b")
+		)
+		(instances
+			(project "Project"
+				(path "/02a8dfdc-15d0-4b24-b22c-5406391b3d62"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:LED")
