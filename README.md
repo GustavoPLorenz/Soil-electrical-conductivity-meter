@@ -6,27 +6,29 @@ The soil electrical conductivity meter is a device designed to see how easily so
 
 
 # Bill of Materials
-<ul>
- <li>1 x Arduino UNO R3</li>
- <li>1 x PCB</li>
- <li>1 x Case</li>
- <li>1 x  DHT11 temperature and humidity sensor</li>
- <li>1 x HC-05 bluetooth module</li>
- <li>1 x Buzzer</li>
- <li>1 x Push button</li>
- <li>1 x LED</li>
- <li>2 x 1kΩ</li>
- <li>1 x 10kΩ</li>
- <li>1 x 220kΩ</li>
- <li>2 x Wires</li>
- <li>2 x 10cm iron nail </li>
- <li>4 x M3 × 20mm Phillips Head Screw</li>
- <li>4 x M3 × 10mm Phillips Head Screw</li>
- <li>1 x 1x6 Pin Header</li>
- <li>2 x 1x8 Pin Header</li>
- <li>1 x 1x10 Pin Header</li>
- <li>1 x USB-B</li>
-</ul>
+## Bill of Materials (BOM)
+
+| Quantity | Component |
+|:--------:|-----------|
+| 1x | Arduino UNO R3 |
+| 1x | PCB |
+| 1x | Case |
+| 1x | DHT11 Temperature and Humidity Sensor |
+| 1x | HC-05 Bluetooth Module |
+| 1x | Buzzer |
+| 1x | Push Button |
+| 1x | LED |
+| 2x | 1kΩ Resistor |
+| 1x | 10kΩ Resistor |
+| 1x | 220kΩ Resistor |
+| 2x | Wires |
+| 2x | 10cm Iron Nail |
+| 4x | M3 × 20mm Phillips Head Screw |
+| 4x | M3 × 10mm Phillips Head Screw |
+| 1x | 1×6 Pin Header |
+| 2x | 1×8 Pin Header |
+| 1x | 1×10 Pin Header |
+| 1x | USB-B Connector |
 
 # Files
 
