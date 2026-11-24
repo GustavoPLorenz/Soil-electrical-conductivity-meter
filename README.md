@@ -35,8 +35,11 @@ The soil electrical conductivity meter is a device designed to see how easily so
 <ul>
  <img width="663" height="372" alt="image" src="https://github.com/user-attachments/assets/072319c9-2d4c-401b-ab56-b381b4f36f35" />
  <li>CAD: https://github.com/GustavoPLorenz/Soil-electrical-conductivity-meter/blob/main/CAD</li>
+ 
  <img width="650" height="505" alt="image" src="https://github.com/user-attachments/assets/e53d685c-5857-4ccf-8d35-76c950dcef88" />
+ <img width="676" height="550" alt="image" src="https://github.com/user-attachments/assets/3ebd8c43-700d-4a39-9208-3ba6d296e1a0" />
  <li>PCB: https://github.com/GustavoPLorenz/Soil-electrical-conductivity-meter/blob/main/Kicad</li>
+ 
  <img width="922" height="482" alt="image" src="https://github.com/user-attachments/assets/3cb843c6-343d-44c8-b7c0-f5f0c6fe7ede" />
  <li>Firmware: https://github.com/GustavoPLorenz/Soil-electrical-conductivity-meter/blob/main/Firmware</li>
 </ul>
